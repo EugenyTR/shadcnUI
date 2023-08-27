@@ -46,7 +46,7 @@ function App() {
       <Button variant="secondary">Secondary</Button>
       <Button variant="ghost">Ghost</Button>
       <Button>
-        <Mail className="mr-2 h-4 w-4" /> Login with Email
+        <Mail className="mr-2 h-4 w-4" /> Войти с помощью Email
       </Button>
 
       <Switch />
@@ -63,7 +63,7 @@ function App() {
                     Email
                   </FormLabel>
                   <FormDescription>
-                    Some description
+                    Описание
                   </FormDescription>
                 </div>
                 <FormControl>
